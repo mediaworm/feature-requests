@@ -1,5 +1,5 @@
 # MediaWorm #
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](http://stackshare.io/jeimanjeya/mediaworm)
+[![StackShare](https://img.shields.io/badge/stackshare-6%20stacks-blue.svg)](http://stackshare.io/jeimanjeya/mediaworm)
 ## Feature Requests ##
 Hello there. Welcome to the feature requests repository. You maybe wondering why a separate repository for only feature requests? Well, in this way it becomes easy for us to keep a track of things. 
 
